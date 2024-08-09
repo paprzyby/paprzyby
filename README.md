@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi! My name is Pawel and I'm currently a 42 student
+<br>
+<table>
+<tr>
+<th align="left"> &nbsp; 42 Piscine Projects</th>
+</tr>
+<tr>
+<td>
 
-<!--
-**paprzyby/paprzyby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| [C00](https://github.com/paprzyby/42-Piscine/tree/main/C00) |
 
-Here are some ideas to get you started:
+</td> </tr> </table>
+</td>
+</tr> </table>
+<br>
+<table>
+<tr>
+<th align="left"> &nbsp; 42 Common Core Projects</th>
+</tr>
+<tr>
+<td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| [Libft](https://github.com/paprzyby/42-Common-Core/tree/main/libft) |
+
+</td>
+</tr> </table>
+<br>
