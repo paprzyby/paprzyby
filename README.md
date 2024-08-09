@@ -1,4 +1,4 @@
-# Hi! My name is Pawel and I'm currently a 42 student
+## Hi! My name is Pawel and I'm currently a 42 student
 <br>
 <table>
 <tr>
