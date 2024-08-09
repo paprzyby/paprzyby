@@ -1,8 +1,15 @@
-## Hi! My name is Pawel and I'm currently a 42 student
+## Hi! My name is Pawel and I'm currently a 42 student [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawel-przybyla)
 <br>
-<table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,github,notion,vscode"/>
+  </a>
+</p>
+
+<br>
+<table align="center">
 <tr>
-<th align="left"> &nbsp; 42 Common Core Projects</th>
+<th align="center"> &nbsp; 42 Common Core Projects</th>
 </tr>
 <tr>
 <td>
@@ -13,9 +20,9 @@
 </td>
 </tr> </table>
 <br>
-<table>
+<table align="center">
 <tr>
-<th align="left"> &nbsp; 42 Piscine Projects</th>
+<th align="center""> &nbsp; 42 Piscine Projects</th>
 </tr>
 <tr>
 <td>
@@ -27,4 +34,6 @@
 </td> </tr> </table>
 </td>
 </tr> </table>
-<br>
+<!-- <br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paprzyby&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
