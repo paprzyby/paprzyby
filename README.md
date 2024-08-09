@@ -1,4 +1,4 @@
-## Hi! My name is Pawel and I'm currently a 42 student [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawel-przybyla)
+## Hi! My name is Pawel and I'm currently a 42 student [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawel-przybyla-52296431a)
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
