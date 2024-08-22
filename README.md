@@ -4,10 +4,11 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,docker,debian,github,git,linux,windows"/>
   </a>
 </p>
-<br>
+<img align="left" src="https://github.com/paprzyby/paprzyby/blob/main/42_Logo.png"
+      width="300" 
+     height="300" />
 <table align="center">
 <tr>
 <th align="center"> &nbsp; 42 Common Core Projects</th>
@@ -34,9 +35,6 @@
 || [C06](https://github.com/paprzyby/42-Piscine/tree/main/C06) || [C07](https://github.com/paprzyby/42-Piscine/tree/main/C07)
 
 </td> </tr> </table>
-<h2>
-  42:
-</h2>
 <br>
 <table align="center">
 <tr>
