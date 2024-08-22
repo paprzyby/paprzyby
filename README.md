@@ -58,7 +58,7 @@
 <tr>
 <td>
 
-[Server-side vulnerabilities]
+[Server-side vulnerabilities] || [API testing] || [Web LLM attacks] || [Cross-site request forgery (CSRF)]
 
 </td> </tr> </table>
 </td>
