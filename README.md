@@ -8,6 +8,12 @@
 </p>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <a href="https://www.42heilbronn.de/en/?_gl=1*138a8s*_up*MQ..&gclid=Cj0KCQjww5u2BhDeARIsALBuLnPIqIUVFLC692elBFgjtKE8jnV5W0YhCH9zJADNEJ-jPBlSYaDuDLAaAlXKEALw_wcB">
   <img align="left" src="https://github.com/paprzyby/paprzyby/blob/main/42_Logo.png"
         width="250" 
