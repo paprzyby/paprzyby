@@ -53,7 +53,7 @@
 <br>
 <table align="left">
 <tr>
-<th align="center""> &nbsp; Server-side vulnerabilitiesr</th>
+<th align="center""> &nbsp; Portswigger</th>
 </tr>
 <tr>
 <td>
