@@ -2,9 +2,7 @@
   Hi! My name is Pawel and I'm currently a 42 student
 </h1>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,html,css,js,docker,debian,github,git,linux,windows"/>
-  </a>
 </p>
 <br>
 <a href="https://www.42heilbronn.de/en/?_gl=1*138a8s*_up*MQ..&gclid=Cj0KCQjww5u2BhDeARIsALBuLnPIqIUVFLC692elBFgjtKE8jnV5W0YhCH9zJADNEJ-jPBlSYaDuDLAaAlXKEALw_wcB">
