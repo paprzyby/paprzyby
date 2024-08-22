@@ -51,12 +51,7 @@
 </td> </tr> </table>
 <br>
 <br>
-<a href="https://portswigger.net/">
-  <img align="left" src="https://github.com/paprzyby/paprzyby/blob/main/Logo_of_PortSwigger.svg.png"
-        width="1000" 
-       height="200" />
-</a>
-<table align="center">
+<table align="left">
 <tr>
 <th align="center""> &nbsp; Server-side vulnerabilitiesr</th>
 </tr>
@@ -68,6 +63,16 @@
 </td> </tr> </table>
 </td>
 </tr> </table>
+<a href="https://portswigger.net/">
+  <img align="right" src="https://github.com/paprzyby/paprzyby/blob/main/portswigger_logo.png"
+      width="200" 
+      height="200" />
+</a>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
