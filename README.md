@@ -53,12 +53,12 @@
 <br>
 <a href="https://portswigger.net/">
   <img align="left" src="https://github.com/paprzyby/paprzyby/blob/main/Logo_of_PortSwigger.svg.png"
-        width="500" 
-       height="100" />
+        width="1000" 
+       height="200" />
 </a>
 <table align="center">
 <tr>
-<th align="center""> &nbsp; Portswigger</th>
+<th align="center""> &nbsp; Server-side vulnerabilitiesr</th>
 </tr>
 <tr>
 <td>
