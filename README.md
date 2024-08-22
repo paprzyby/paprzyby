@@ -48,6 +48,12 @@
 
 </td> </tr> </table>
 <br>
+<br>
+<a href="https://portswigger.net/">
+  <img align="left" src="https://github.com/paprzyby/paprzyby/blob/main/Logo_of_PortSwigger.svg.png"
+        width="500" 
+       height="100" />
+</a>
 <table align="center">
 <tr>
 <th align="center""> &nbsp; Portswigger</th>
@@ -60,5 +66,10 @@
 </td> </tr> </table>
 </td>
 </tr> </table>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawel-przybyla-52296431a)
