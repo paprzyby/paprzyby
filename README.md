@@ -1,5 +1,9 @@
 <h1 align="center">
-  Hi! My name is Pawel and I'm currently a 42 student
+  Hi! My name is 
+  <a href="https://linkedin.com/in/pawel-przybyla-52296431a">
+    Pawel
+  <a/>
+and I'm currently a 42 student
 </h1>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,html,css,js,docker,debian,github,git,linux,windows"/>
