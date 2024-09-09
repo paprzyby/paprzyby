@@ -50,8 +50,6 @@ and I'm currently a 42 student
 [Exam02](https://github.com/paprzyby/Exam02) || [Exam03](https://github.com/paprzyby/Exam03)
 
 </td> </tr> </table>
-<br>
-<br>
 <h2>
   Currently learning:
 </h2>
@@ -72,7 +70,6 @@ and I'm currently a 42 student
       width="250" 
       height="250" />
 </a>
-<br>
 <br>
 <br>
 <br>
