@@ -52,6 +52,9 @@ and I'm currently a 42 student
 </td> </tr> </table>
 <br>
 <br>
+<h2>
+  Currently learning:
+</h2>
 <table align="left">
 <tr>
 <th align="center""> &nbsp; Portswigger</th>
@@ -66,8 +69,8 @@ and I'm currently a 42 student
 </tr> </table>
 <a href="https://portswigger.net/">
   <img align="right" src="https://github.com/paprzyby/paprzyby/blob/main/portswigger_logo.png"
-      width="200" 
-      height="200" />
+      width="250" 
+      height="250" />
 </a>
 <br>
 <br>
