@@ -47,7 +47,7 @@ and I'm currently a 42 student
 <tr>
 <td>
 
-[Exam02] || [Exam02] || [Exam03](https://github.com/paprzyby/Exam03)
+[Exam02] || [Exam03](https://github.com/paprzyby/Exam03)
 
 </td> </tr> </table>
 <br>
