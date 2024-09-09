@@ -21,7 +21,7 @@ and I'm currently a 42 student
 <tr>
 <td>
 
-[libft](https://github.com/paprzyby/libft) || [printf](https://github.com/paprzyby/42-Common-Core/tree/main/printf) || [get_next_line](https://github.com/paprzyby/42-Common-Core/tree/main/get_next_line)
+[libft](https://github.com/paprzyby/libft) || [printf](https://github.com/paprzyby/ft_printf) || [get_next_line](https://github.com/paprzyby/42-Common-Core/tree/main/get_next_line)
 || [minitalk](https://github.com/paprzyby/42-Common-Core/tree/main/minitalk) || [push_swap](https://github.com/paprzyby/42-Common-Core/tree/main/push_swap) || [so_long](https://github.com/paprzyby/42-Common-Core/tree/main/so_long)
 || [philosophers](https://github.com/paprzyby/42-Common-Core/tree/main/philo)
 
