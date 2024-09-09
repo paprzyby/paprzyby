@@ -60,7 +60,7 @@ and I'm currently a 42 student
 <tr>
 <td>
 
-[Server-side vulnerabilities] || [API testing] || [Web LLM attacks]
+|| [] || [] || [] || [] || [] || [] || [] || [Server-side vulnerabilities](https://github.com/paprzyby/Server-side-vulnerabilities) || [] || [] || []  || [] || [] || []  || [] ||
 
 </td> </tr> </table>
 </td>
