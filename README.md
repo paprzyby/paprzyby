@@ -6,7 +6,7 @@
 and I'm currently a 42 student
 </h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,docker,debian,github,git,linux,windows"/>
+    <img src="https://skillicons.dev/icons?i=c,docker,debian,github,git,linux,windows"/>
 </p>
 <br>
 <a href="https://www.42heilbronn.de/en/?_gl=1*138a8s*_up*MQ..&gclid=Cj0KCQjww5u2BhDeARIsALBuLnPIqIUVFLC692elBFgjtKE8jnV5W0YhCH9zJADNEJ-jPBlSYaDuDLAaAlXKEALw_wcB">
@@ -75,11 +75,9 @@ and I'm currently a 42 student
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawel-przybyla-52296431a)
