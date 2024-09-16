@@ -76,5 +76,8 @@ and I'm currently a 42 student
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawel-przybyla-52296431a)
