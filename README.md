@@ -79,8 +79,13 @@ and I'm currently a 42 student
 </tr> </table>
 <a href="https://portswigger.net/">
   <img align="right" src="https://github.com/paprzyby/paprzyby/blob/main/portswigger_logo.png"
-      width="250" 
-      height="250" />
+      width="150" 
+      height="150" />
+</a>
+<a href="https://academy.hackthebox.com/">
+  <img align="right" src="https://github.com/paprzyby/paprzyby/blob/main/0x0.png"
+      width="150" 
+      height="150" />
 </a>
 <br>
 <br>
