@@ -65,6 +65,18 @@ and I'm currently a 42 student
 </td> </tr> </table>
 </td>
 </tr> </table>
+<table align="left">
+<tr>
+<th align="center""> &nbsp; Hack The Box Academy</th>
+</tr>
+<tr>
+<td>
+
+|| [] || [] || [] || [] || [] || [] || [] || [Linux Fundamentals] || [] || [] || []  || [] || [] || []  || []  ||
+
+</td> </tr> </table>
+</td>
+</tr> </table>
 <a href="https://portswigger.net/">
   <img align="right" src="https://github.com/paprzyby/paprzyby/blob/main/portswigger_logo.png"
       width="250" 
