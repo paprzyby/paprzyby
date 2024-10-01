@@ -1,10 +1,4 @@
-<h1 align="center">
-  Hi! My name is 
-  <a href="https://linkedin.com/in/pawel-przybyla-52296431a">
-    Pawel
-  <a/>
-and I'm currently a 42 student
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=FF000000&vCenter=true&width=1000&lines=Hi!+My+name+is+Pawel+and+I'm+currently+a+42+student" alt="Typing SVG" /></a>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,docker,debian,github,git,linux,windows"/>
 </p>
