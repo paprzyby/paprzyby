@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=FF000000&vCenter=true&width=1000&lines=Hi!+My+name+is+Pawel+and+I'm+currently+a+42+student" alt="Typing SVG" /></a>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,docker,debian,github,git,linux,windows"/>
+    <img src="https://skillicons.dev/icons?i=c,python,git,docker,debian,linux,windows,github"/>
 </p>
 <br>
 <a href="https://www.42heilbronn.de/en/?_gl=1*138a8s*_up*MQ..&gclid=Cj0KCQjww5u2BhDeARIsALBuLnPIqIUVFLC692elBFgjtKE8jnV5W0YhCH9zJADNEJ-jPBlSYaDuDLAaAlXKEALw_wcB">
@@ -47,7 +47,31 @@
 <h2>
   Currently learning:
 </h2>
-<table align="left">
+<a href="https://academy.hackthebox.com/">
+  <img align="left" src="https://github.com/paprzyby/paprzyby/blob/main/0x0.png"
+      width="250" 
+      height="250" />
+</a>
+<a href="https://portswigger.net/">
+  <img align="right" src="https://github.com/paprzyby/paprzyby/blob/main/portswigger_logo.png"
+      width="250" 
+      height="250" />
+</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawel-przybyla-52296431a)
+<!-- <table align="left">
 <tr>
 <th align="center""> &nbsp; Portswigger</th>
 </tr>
@@ -71,16 +95,6 @@
 </td> </tr> </table>
 </td>
 </tr> </table>
-<a href="https://portswigger.net/">
-  <img align="right" src="https://github.com/paprzyby/paprzyby/blob/main/portswigger_logo.png"
-      width="150" 
-      height="150" />
-</a>
-<a href="https://academy.hackthebox.com/">
-  <img align="right" src="https://github.com/paprzyby/paprzyby/blob/main/0x0.png"
-      width="150" 
-      height="150" />
-</a>
 <br>
 <br>
 <br>
@@ -89,6 +103,5 @@
 <br>
 <br>
 <br>
-<br>
+<br> -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawel-przybyla-52296431a)
