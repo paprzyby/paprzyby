@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=FF000000&vCenter=true&width=1000&lines=Hi!+My+name+is+Pawel+and+I'm+currently+a+42+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=FF000000&vCenter=true&width=1000&lines=++++Hi!+My+name+is+Pawel+and+I'm+currently+a+42+student" alt="Typing SVG" /></a>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,python,git,docker,debian,linux,windows,github"/>
 </p>
