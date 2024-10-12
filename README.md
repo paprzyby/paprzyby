@@ -49,18 +49,18 @@
 </h2>
 <a href="https://academy.hackthebox.com/">
   <img align="center" src="https://github.com/paprzyby/paprzyby/blob/main/0x0.png"
-      width="250" 
-      height="250" />
+      width="200" 
+      height="200" />
 </a>
 <a href="https://tryhackme.com/">
   <img align="center" src="https://github.com/paprzyby/paprzyby/blob/main/THMlogo.png"
-      width="450" 
-      height="250" />
+      width="400" 
+      height="200" />
 </a>
 <a href="https://portswigger.net/">
   <img align="center" src="https://github.com/paprzyby/paprzyby/blob/main/portswigger_logo.png"
-      width="250" 
-      height="250" />
+      width="200" 
+      height="200" />
 </a>
 <br>
 <br>
