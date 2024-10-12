@@ -41,7 +41,7 @@
 <tr>
 <td>
 
-|| [Exam03](https://github.com/paprzyby/Exam03) ||
+[Exam Rank 03] || [Exam Rank 03](https://github.com/paprzyby/Exam03) || [Exam Rank 04]
 
 </td> </tr> </table>
 <h2>
