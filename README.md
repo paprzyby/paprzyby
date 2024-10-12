@@ -48,62 +48,22 @@
   Currently learning:
 </h2>
 <a href="https://academy.hackthebox.com/">
-  <img align="left" src="https://github.com/paprzyby/paprzyby/blob/main/0x0.png"
+  <img align="center" src="https://github.com/paprzyby/paprzyby/blob/main/0x0.png"
       width="250" 
+      height="250" />
+</a>
+<a href="https://tryhackme.com/">
+  <img align="center" src="https://github.com/paprzyby/paprzyby/blob/main/THMlogo.png"
+      width="450" 
       height="250" />
 </a>
 <a href="https://portswigger.net/">
-  <img align="right" src="https://github.com/paprzyby/paprzyby/blob/main/portswigger_logo.png"
+  <img align="center" src="https://github.com/paprzyby/paprzyby/blob/main/portswigger_logo.png"
       width="250" 
       height="250" />
 </a>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawel-przybyla-52296431a)
-<!-- <table align="left">
-<tr>
-<th align="center""> &nbsp; Portswigger</th>
-</tr>
-<tr>
-<td>
-
-|| [] || [] || [] || [] || [] || [] || [Server-side vulnerabilities](https://github.com/paprzyby/Server-side-vulnerabilities) || [] || [] || []  || [] || [] || []  ||
-
-</td> </tr> </table>
-</td>
-</tr> </table>
-<table align="left">
-<tr>
-<th align="center""> &nbsp; Hack The Box Academy</th>
-</tr>
-<tr>
-<td>
-
-|| [] || [] || [] || [] || [] || [] || [] || [Linux Fundamentals] || [] || [] || []  || [] || [] || []  || []  ||
-
-</td> </tr> </table>
-</td>
-</tr> </table>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br> -->
-
