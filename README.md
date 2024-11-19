@@ -17,6 +17,7 @@
 
 [libft](https://github.com/paprzyby/libft) || [printf](https://github.com/paprzyby/ft_printf) || [get_next_line](https://github.com/paprzyby/get_next_line)
 || [minitalk](https://github.com/paprzyby/minitalk) || [push_swap](https://github.com/paprzyby/push_swap) || [so_long](https://github.com/paprzyby/so_long)
+|| [minishell](https://github.com/paprzyby/minishell)
 
 </td>
 </tr> </table>
