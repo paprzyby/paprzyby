@@ -17,14 +17,16 @@
 
 [libft](https://github.com/paprzyby/libft) || [printf](https://github.com/paprzyby/ft_printf) || [get_next_line](https://github.com/paprzyby/get_next_line)
 || [minitalk](https://github.com/paprzyby/minitalk) || [push_swap](https://github.com/paprzyby/push_swap) || [so_long](https://github.com/paprzyby/so_long)
-|| [minishell](https://github.com/paprzyby/minishell) || [philosophers](https://github.com/paprzyby/philo)
+<br>
+<br>
+[minishell](https://github.com/paprzyby/minishell) || [philosophers](https://github.com/paprzyby/philo) || [cub3d](https://github.com/paprzyby/cub3d)
 
 </td>
 </tr> </table>
 <br>
 <table align="center">
 <tr>
-<th align="center""> &nbsp; 42 Piscine Projects</th>
+<th align="center"> &nbsp; 42 Piscine Projects</th>
 </tr>
 <tr>
 <td>
