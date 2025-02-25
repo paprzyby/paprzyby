@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=FF000000&vCenter=true&width=1000&lines=++++Hi!+My+name+is+Pawel+and+I'm+currently+a+42+student" alt="Typing SVG" /></a>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,docker,debian,github"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,docker,git,github"/>
 </p>
 <br>
 <a href="https://www.42heilbronn.de/en/?_gl=1*138a8s*_up*MQ..&gclid=Cj0KCQjww5u2BhDeARIsALBuLnPIqIUVFLC692elBFgjtKE8jnV5W0YhCH9zJADNEJ-jPBlSYaDuDLAaAlXKEALw_wcB">
