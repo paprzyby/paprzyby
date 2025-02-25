@@ -38,16 +38,6 @@
 
 </td> </tr> </table>
 <br>
-<table align="center">
-<tr>
-<th align="center""> &nbsp; 42 Exams</th>
-</tr>
-<tr>
-<td>
-
-[Exam Rank 01] || [Exam Rank 02] || [Exam Rank 03](https://github.com/paprzyby/Exam03)
-
-</td> </tr> </table>
 <h2>
   Currently learning:
 </h2>
