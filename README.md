@@ -20,7 +20,7 @@
 <br>
 <br>
 [minishell](https://github.com/paprzyby/minishell) || [philosophers](https://github.com/paprzyby/philo) || [cub3d](https://github.com/paprzyby/cub3d)
-|| [cpp00](https://github.com/paprzyby/cpp00) || [cpp01](https://github.com/paprzyby/cpp01)
+|| [cpp00](https://github.com/paprzyby/cpp00) || [cpp01](https://github.com/paprzyby/cpp01) || [cpp02](https://github.com/paprzyby/cpp02)
 
 </td>
 </tr> </table>
