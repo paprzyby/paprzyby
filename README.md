@@ -44,24 +44,7 @@
 
 </td> </tr> </table>
 <br>
-<h2>
-  Currently learning:
-</h2>
-<a href="https://academy.hackthebox.com/">
-  <img align="center" src="https://github.com/paprzyby/paprzyby/blob/main/0x0.png"
-      width="200" 
-      height="200" />
-</a>
-<a href="https://tryhackme.com/">
-  <img align="center" src="https://github.com/paprzyby/paprzyby/blob/main/THMlogo.png"
-      width="400" 
-      height="200" />
-</a>
-<a href="https://portswigger.net/">
-  <img align="center" src="https://github.com/paprzyby/paprzyby/blob/main/portswigger_logo.png"
-      width="200" 
-      height="200" />
-</a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/pawelprzybyla.png" alt="Your Image Badge">
 <br>
 <br>
 <br>
