@@ -30,6 +30,9 @@
 <br>
 [cpp00](https://github.com/paprzyby/cpp00) || [cpp01](https://github.com/paprzyby/cpp01) || [cpp02](https://github.com/paprzyby/cpp02) || [cpp03](https://github.com/paprzyby/cpp03)
 || [cpp04](https://github.com/paprzyby/cpp04) || [cpp05](https://github.com/paprzyby/cpp05) || [cpp06](https://github.com/paprzyby/cpp06)
+<br>
+<br>
+[cpp07](https://github.com/paprzyby/cpp07) || ...
 
 </td>
 </tr> </table>
