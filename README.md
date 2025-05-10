@@ -32,7 +32,7 @@
 || [cpp04](https://github.com/paprzyby/cpp04) || [cpp05](https://github.com/paprzyby/cpp05) || [cpp06](https://github.com/paprzyby/cpp06)
 <br>
 <br>
-[cpp07](https://github.com/paprzyby/cpp07) || ...
+[cpp07](https://github.com/paprzyby/cpp07) || [cpp08](https://github.com/paprzyby/cpp08) || ...
 
 </td>
 </tr> </table>
