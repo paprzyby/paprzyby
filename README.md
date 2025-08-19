@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=FF000000&vCenter=true&width=1000&lines=++++Hi!+My+name+is+Pawel+and+I'm+currently+a+42+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=FF000000&vCenter=true&width=1000&lines=I+work+as+Onsite-Engineer+and+study+at+42+Heilbronn" alt="Typing SVG" /></a>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,windows,git,github"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,windows,powershell,git"/>
 </p>
 <br>
 <a href="https://www.42heilbronn.de/en/?_gl=1*138a8s*_up*MQ..&gclid=Cj0KCQjww5u2BhDeARIsALBuLnPIqIUVFLC692elBFgjtKE8jnV5W0YhCH9zJADNEJ-jPBlSYaDuDLAaAlXKEALw_wcB">
@@ -29,23 +29,14 @@
 <br>
 <br>
 [cpp07](https://github.com/paprzyby/cpp07) || [cpp08](https://github.com/paprzyby/cpp08)
-
-</td>
-</tr> </table>
 <br>
-<table align="center">
-<tr>
-<th align="center"> &nbsp; 42 Piscine Projects</th>
-</tr>
 <br>
-<tr>
-<td>
-
+<br>
 [C00](https://github.com/paprzyby/42-Piscine/tree/main/C00) ||| [C01](https://github.com/paprzyby/42-Piscine/tree/main/C01) ||| [C02](https://github.com/paprzyby/42-Piscine/tree/main/C02)
 ||| [C03](https://github.com/paprzyby/42-Piscine/tree/main/C03) ||| [C04](https://github.com/paprzyby/42-Piscine/tree/main/C04) ||| [C05](https://github.com/paprzyby/42-Piscine/tree/main/C05)
 ||| [C06](https://github.com/paprzyby/42-Piscine/tree/main/C06) ||| [C07](https://github.com/paprzyby/42-Piscine/tree/main/C07) ||| [Rush00](https://github.com/paprzyby/Rush00)
-
-</td> </tr> </table>
+</td>
+</tr> </table>
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawel-przybyla-52296431a)
