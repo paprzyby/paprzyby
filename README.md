@@ -10,29 +10,25 @@
 </a>
 <table align="center">
 <tr>
-<th align="center"> &nbsp; 42 Common Core Projects</th>
+<th align="center"> &nbsp; 42 Projects</th>
 </tr>
 <tr>
 <td>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C Projects:
-<br>
-<br>
 
 [libft](https://github.com/paprzyby/libft) || [printf](https://github.com/paprzyby/ft_printf) || [get_next_line](https://github.com/paprzyby/get_next_line)
 || [minitalk](https://github.com/paprzyby/minitalk) || [push_swap](https://github.com/paprzyby/push_swap) || [so_long](https://github.com/paprzyby/so_long)
 <br>
+
+[minishell](https://github.com/paprzyby/minishell) || [philosophers](https://github.com/paprzyby/philo) || [cub3d](https://github.com/paprzyby/cub3d)
+|| [irc](https://github.com/paprzyby/ft_irc)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [minishell](https://github.com/paprzyby/minishell) || [philosophers](https://github.com/paprzyby/philo) || [cub3d](https://github.com/paprzyby/cub3d)
-<br>
-<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++ Projects:
 <br>
 <br>
 [cpp00](https://github.com/paprzyby/cpp00) || [cpp01](https://github.com/paprzyby/cpp01) || [cpp02](https://github.com/paprzyby/cpp02) || [cpp03](https://github.com/paprzyby/cpp03)
 || [cpp04](https://github.com/paprzyby/cpp04) || [cpp05](https://github.com/paprzyby/cpp05) || [cpp06](https://github.com/paprzyby/cpp06)
 <br>
 <br>
-[cpp07](https://github.com/paprzyby/cpp07) || [cpp08](https://github.com/paprzyby/cpp08) || ...
+[cpp07](https://github.com/paprzyby/cpp07) || [cpp08](https://github.com/paprzyby/cpp08)
 
 </td>
 </tr> </table>
