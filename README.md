@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=FF000000&vCenter=true&width=1000&lines=I+work+as+Onsite-Engineer+and+study+at+42+Heilbronn" alt="Typing SVG" /></a>
+<h1 align="center">
+    I work as an Onsite-Engineer and study at 42 Heilbronn
+</h1>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,windows,powershell,git"/>
 </p>
