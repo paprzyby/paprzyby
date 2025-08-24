@@ -4,41 +4,53 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,windows,powershell,git"/>
 </p>
-<br>
-<a href="https://www.42heilbronn.de/en/?_gl=1*138a8s*_up*MQ..&gclid=Cj0KCQjww5u2BhDeARIsALBuLnPIqIUVFLC692elBFgjtKE8jnV5W0YhCH9zJADNEJ-jPBlSYaDuDLAaAlXKEALw_wcB">
-  <img align="left" src="https://github.com/paprzyby/paprzyby/blob/main/42_Logo.png"
-        width="300" 
-       height="300" />
-</a>
-<table align="center">
-<tr>
-<th align="center"> &nbsp; 42 Projects</th>
-</tr>
-<tr>
-<td>
-
-[libft](https://github.com/paprzyby/libft) || [printf](https://github.com/paprzyby/ft_printf) || [get_next_line](https://github.com/paprzyby/get_next_line)
-|| [minitalk](https://github.com/paprzyby/minitalk) || [push_swap](https://github.com/paprzyby/push_swap) || [so_long](https://github.com/paprzyby/so_long)
-<br>
-
-[minishell](https://github.com/paprzyby/minishell) || [philosophers](https://github.com/paprzyby/philo) || [cub3d](https://github.com/paprzyby/cub3d)
-|| [irc](https://github.com/paprzyby/ft_irc)
-<br>
-<br>
-<br>
-[cpp00](https://github.com/paprzyby/cpp00) || [cpp01](https://github.com/paprzyby/cpp01) || [cpp02](https://github.com/paprzyby/cpp02) || [cpp03](https://github.com/paprzyby/cpp03)
-|| [cpp04](https://github.com/paprzyby/cpp04) || [cpp05](https://github.com/paprzyby/cpp05) || [cpp06](https://github.com/paprzyby/cpp06)
-<br>
-<br>
-[cpp07](https://github.com/paprzyby/cpp07) || [cpp08](https://github.com/paprzyby/cpp08)
-<br>
-<br>
-<br>
-[C00](https://github.com/paprzyby/42-Piscine/tree/main/C00) ||| [C01](https://github.com/paprzyby/42-Piscine/tree/main/C01) ||| [C02](https://github.com/paprzyby/42-Piscine/tree/main/C02)
-||| [C03](https://github.com/paprzyby/42-Piscine/tree/main/C03) ||| [C04](https://github.com/paprzyby/42-Piscine/tree/main/C04) ||| [C05](https://github.com/paprzyby/42-Piscine/tree/main/C05)
-||| [C06](https://github.com/paprzyby/42-Piscine/tree/main/C06) ||| [C07](https://github.com/paprzyby/42-Piscine/tree/main/C07) ||| [Rush00](https://github.com/paprzyby/Rush00)
-</td>
-</tr> </table>
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawel-przybyla-52296431a)
+  <table align="center">
+    <thead>
+      <tr>
+        <th><h3>Project</h3></th>
+        <th><h3>Description</h3></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr align="center">
+        <td><a href="https://github.com/paprzyby/libft">Libft</a></td>
+        <td>C library with basic standard functions re-implemented from scratch.</td>
+      </tr>
+      <tr align="center">
+        <td><a href="https://github.com/paprzyby/ft_printf">printf</a></td>
+        <td>Custom implementation of <code>printf</code> with formatted output handling.</td>
+      </tr>
+      <tr align="center">
+        <td><a href="https://github.com/paprzyby/get_next_line">get_next_line</a></td>
+        <td>Reads a file line-by-line efficiently with dynamic memory management.</td>
+      </tr>
+      <tr align="center">
+        <td><a href="https://github.com/paprzyby/minitalk">Minitalk</a></td>
+        <td>Simple client-server communication using UNIX signals.</td>
+      </tr>
+      <tr align="center">
+        <td><a href="https://github.com/paprzyby/push_swap">push_swap</a></td>
+        <td>Sorting integers with two stacks and a restricted instruction set.</td>
+      </tr>
+      <tr align="center">
+        <td><a href="https://github.com/paprzyby/so_long">so_long</a></td>
+        <td>2D game in C using MiniLibX (graphics, movement, collectibles).</td>
+      </tr>
+      <tr align="center">
+        <td><a href="https://github.com/paprzyby/minishell">Minishell</a></td>
+        <td>A simplified shell with pipes, redirections, and built-in commands.</td>
+      </tr>
+      <tr align="center">
+        <td><a href="https://github.com/paprzyby/philo">Philosophers</a></td>
+        <td>Dining philosophers concurrency problem using threads and mutexes.</td>
+      </tr>
+      <tr align="center">
+        <td><a href="https://github.com/paprzyby/cub3d">Cub3d</a></td>
+        <td>Raycasting engine (Wolfenstein-style 3D game) in C.</td>
+      </tr>
+      <tr align="center">
+        <td><a href="https://github.com/paprzyby/ft_irc">IRC</a></td>
+        <td>Implementation of an IRC server handling multiple clients.</td>
+      </tr>
+    </tbody>
+  </table>
