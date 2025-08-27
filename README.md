@@ -14,7 +14,7 @@
   <tbody>
     <tr align="center">
       <td><a href="https://github.com/paprzyby/ft_irc">IRC</a></td>
-      <td>Implementation of an IRC server handling multiple clients.</td>
+      <td>Implementation of an IRC server that handles multiple clients connection</td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/paprzyby/cub3d">Cub3d</a></td>
@@ -26,7 +26,7 @@
     </tr>
     <tr align="center">
       <td><a href="https://github.com/paprzyby/minishell">Minishell</a></td>
-      <td>A simplified shell with pipes, redirections, and built-in commands.</td>
+      <td>A simplified Bash implementation with pipes, redirections, and built-in commands.</td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/paprzyby/so_long">so_long</a></td>
@@ -38,7 +38,7 @@
     </tr>
     <tr align="center">
       <td><a href="https://github.com/paprzyby/minitalk">Minitalk</a></td>
-      <td>Simple client-server communication using UNIX signals.</td>
+      <td>Client-server communication using UNIX signals.</td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/paprzyby/get_next_line">get_next_line</a></td>
