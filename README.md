@@ -13,6 +13,10 @@
   </thead>
   <tbody>
     <tr align="center">
+      <td><a href="https://github.com/paprzyby/Inception">Inception</a></td>
+      <td>Multi-Service Docker Infrastructure (NGINX, WordPress, MariaDB)</td>
+    </tr>
+    <tr align="center">
       <td><a href="https://github.com/paprzyby/ft_irc">IRC</a></td>
       <td>Implementation of an IRC server that handles multiple clients connection</td>
     </tr>
