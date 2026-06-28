@@ -2,7 +2,7 @@
     I work as an Onsite-Engineer and study at 42 Heilbronn
 </h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,windows,powershell,git"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash"/>
 </p>
 <table align="center">
   <thead>
